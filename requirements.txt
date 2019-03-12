@@ -1,0 +1,2 @@
+firefly-python==0.1.15
+sentry-sdk==0.7.6
